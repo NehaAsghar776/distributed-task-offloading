@@ -1,0 +1,1 @@
+"""Distributed rendering worker package."""

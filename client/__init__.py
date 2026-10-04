@@ -1,0 +1,1 @@
+"""Desktop client for the distributed rendering system."""

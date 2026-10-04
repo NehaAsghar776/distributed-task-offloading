@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+worker_data/
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+benchmarks/results/*.json
+benchmarks/results/*.csv
+start_server.bat
+*.mp4
+!demos/*.mp4
+.venv-1/
